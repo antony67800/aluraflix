@@ -2,3 +2,6 @@
     color: black;
     background: red;
  }
+ header {
+   border: solid 2px white;
+ }
