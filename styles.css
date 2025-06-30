@@ -9,3 +9,11 @@
    font-size: 32px;
    color:rgb(255, 153, 0);
  }
+
+ section {
+  background: rgb(240, 109, 1);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+ }
