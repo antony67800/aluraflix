@@ -29,3 +29,7 @@
  img{
     height: 200px;
  }
+ .chamada-filmes {
+   display: flex;
+   overflow-x: auto;
+ }
