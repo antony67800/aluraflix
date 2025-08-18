@@ -26,9 +26,7 @@
  p{
   font-size: 20px;
  }
- img{
-    height: 200px;
- }
+
 
 .categoria-videos {
     display: flex;
@@ -41,5 +39,6 @@
 }
 .categoria-videos img {
  opacity: 0.5;
+  height: 200px;
 }
 
