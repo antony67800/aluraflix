@@ -29,7 +29,7 @@
  img{
     height: 200px;
  }
- .chamada-videos {
+ .categoria-videos {
    display: flex;
    overflow-x: auto;
  }
